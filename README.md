@@ -53,7 +53,7 @@ The USGS wants you to plot a second dataset on your map to illustrate the relati
 
 The following image is an example screenshot of what the USGS would like you to produce:
 
-![5-Advanced](Images/5-Advanced.png)
+![5-Advanced](https://user-images.githubusercontent.com/106934375/193711958-b319655e-6148-401a-8912-7daaac54da09.png)
 
 Perform the following tasks: 
 
