@@ -15,7 +15,8 @@ The instructions for this activity are broken into two parts:
 
 ### Part 1: Create the Earthquake Visualization
 
-![2-BasicMap](Images/2-BasicMap.png)
+![2-BasicMap](https://user-images.githubusercontent.com/106934375/193709936-fa98750e-5e48-42f5-a75e-c865fae96388.png)
+
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
@@ -23,11 +24,12 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
    * The USGS provides earthquake data in a number of different formats, updated every five minutes. Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
 
-   ![3-Data](Images/3-Data.png)
+   ![3-Data](https://user-images.githubusercontent.com/106934375/193709976-45b209df-6518-43c9-b5cf-44b60643653b.png)
 
     * When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
 
-   ![4-JSON](Images/4-JSON.png)
+   ![4-JSON](https://user-images.githubusercontent.com/106934375/193710039-e44d7d11-b772-465d-9410-1d88eeccd20a.png)
+
 
 2. Import and visualize the data by doing the following: 
 
