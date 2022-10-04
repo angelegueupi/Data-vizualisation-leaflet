@@ -1,4 +1,4 @@
-# Unit 15 Homework: Visualizing Data with Leaflet
+# Visualizing Data with Leaflet
 
 ![1-Logo](https://user-images.githubusercontent.com/106934375/193711764-ec356cb5-5e00-494d-91ef-4c22eceb645c.png)
 
