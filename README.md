@@ -1,13 +1,22 @@
+# Unit 15 Homework: Visualizing Data with Leaflet
 
-# Visualizing Data with Leaflet
-
-
-![1-Logo](https://user-images.githubusercontent.com/106934375/193710213-df5f6a92-c275-463c-a17c-02ff04d546f3.png)
+## Background
 
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. As a new hire, you will be helping them out with an exciting new project!
 
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
+## Before You Begin
+
+1. Create a new repository for this project called `leaflet-challenge`. **Do not add this homework to an existing repository**.
+
+2. Clone the new repository to your computer.
+
+3. Inside your local git repository, create a directory for the Leaflet challenge. Use the folder names to correspond to the challenges: **Leaflet-Part-1** and **Leaflet-Part-2**.
+
+4. This homework uses both **HTML** and **JavaScript**, so be sure to add all the necessary files. These will be the main files to run for analysis.
+
+5. Push the above changes to GitHub.
 
 ## Instructions
 
@@ -19,8 +28,7 @@ The instructions for this activity are broken into two parts:
 
 ### Part 1: Create the Earthquake Visualization
 
-![2-BasicMap](https://user-images.githubusercontent.com/106934375/193709936-fa98750e-5e48-42f5-a75e-c865fae96388.png)
-
+![2-BasicMap](Images/2-BasicMap.png)
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
@@ -28,12 +36,11 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
    * The USGS provides earthquake data in a number of different formats, updated every five minutes. Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
 
-   ![3-Data](https://user-images.githubusercontent.com/106934375/193709976-45b209df-6518-43c9-b5cf-44b60643653b.png)
+   ![3-Data](Images/3-Data.png)
 
     * When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
 
-   ![4-JSON](https://user-images.githubusercontent.com/106934375/193710039-e44d7d11-b772-465d-9410-1d88eeccd20a.png)
-
+   ![4-JSON](Images/4-JSON.png)
 
 2. Import and visualize the data by doing the following: 
 
@@ -57,7 +64,7 @@ The USGS wants you to plot a second dataset on your map to illustrate the relati
 
 The following image is an example screenshot of what the USGS would like you to produce:
 
-![5-Advanced](https://user-images.githubusercontent.com/106934375/193710137-09f8dc15-46bf-4d19-9fab-721dc5188396.png)
+![5-Advanced](Images/5-Advanced.png)
 
 Perform the following tasks: 
 
@@ -68,3 +75,10 @@ Perform the following tasks:
 * Put each dataset into separate overlays that can be turned on and off independently.
 
 * Add layer controls to our map.
+
+## Rubric
+
+[Unit 15 Homework Rubric](https://docs.google.com/document/d/1kDNeT4a54ik_AZrHYN3LmVMqH0hDuiwbK2h5lHNxumQ/edit?usp=sharing)
+
+___
+© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
