@@ -5,6 +5,15 @@ The United States Geological Survey, or USGS for short, is responsible for provi
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
 
+
+# Visualizing Data with Leaflet
+
+The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. As a new hire, you will be helping them out with an exciting new project!
+
+The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
+
+![1-Logo](https://user-images.githubusercontent.com/106934375/193710213-df5f6a92-c275-463c-a17c-02ff04d546f3.png)
+
 ## Instructions
 
 The instructions for this activity are broken into two parts: 
@@ -53,7 +62,7 @@ The USGS wants you to plot a second dataset on your map to illustrate the relati
 
 The following image is an example screenshot of what the USGS would like you to produce:
 
-![5-Advanced](Images/5-Advanced.png)
+![5-Advanced](https://user-images.githubusercontent.com/106934375/193710137-09f8dc15-46bf-4d19-9fab-721dc5188396.png)
 
 Perform the following tasks: 
 
